@@ -61,7 +61,7 @@ Osanwe Wallet consists of the following core components:
 1. Clone the Repository:
    ```bash
    git clone https://github.com/Erchard/osanwe_wallet.git
-   cd OsanweWallet
+   cd osanwe_wallet
    ```
 2. Build and Run:
    ```bash
