@@ -10,7 +10,7 @@ The Osanwe Wallet CLI is a command-line application that allows users to interac
 1. Install Rust: Follow the instructions at [Rust official site](https://rustup.rs/).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DHT_Wallet_CLI.git
+   git clone https://github.com/Erchard/osanwe_wallet.git
    cd DHT_Wallet_CLI
    ```
 3. Build the project:
